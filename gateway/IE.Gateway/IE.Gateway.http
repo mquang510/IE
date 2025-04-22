@@ -1,0 +1,6 @@
+@IE.Gateway_HostAddress = http://localhost:5294
+
+GET {{IE.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
