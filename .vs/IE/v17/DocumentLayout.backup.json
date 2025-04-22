@@ -1,12 +1,139 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Learning\\IE\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\ie.users.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\ie.users.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T07:38:40.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:29:28.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "gateway\\IE.Gateway\\WeatherForecast.cs",
+              "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\WeatherForecast.cs",
+              "RelativeToolTip": "gateway\\IE.Gateway\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:29:11.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Program.cs",
+              "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Program.cs",
+              "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Program.cs",
+              "RelativeToolTip": "gateway\\IE.Gateway\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:24:07.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\ocelot.json",
+              "RelativeDocumentMoniker": "gateway\\IE.Gateway\\ocelot.json",
+              "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\ocelot.json",
+              "RelativeToolTip": "gateway\\IE.Gateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-22T07:23:31.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IE.Users.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T07:12:36.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:10:39.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

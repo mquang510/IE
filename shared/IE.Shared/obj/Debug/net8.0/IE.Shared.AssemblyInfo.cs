@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IE.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f37558ef7a6eefd9882812e53bd89eba1ffd299")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b3b5694b4345509fbaf5140b79ba60831059a97")]
 [assembly: System.Reflection.AssemblyProductAttribute("IE.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IE.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
