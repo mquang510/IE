@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\Learning\\IE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|solutionrelative:gateway\\ie.gateway\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\ie.users.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "RelativeToolTip": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-22T07:38:40.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
@@ -68,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\WeatherForecast.cs",
@@ -87,20 +87,20 @@
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Program.cs",
               "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Program.cs",
               "RelativeToolTip": "gateway\\IE.Gateway\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-22T07:24:07.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\ocelot.json",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\ocelot.json",
               "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\ocelot.json",
               "RelativeToolTip": "gateway\\IE.Gateway\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-22T07:23:31.371Z",
               "EditorCaption": ""
