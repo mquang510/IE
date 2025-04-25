@@ -1,0 +1,16 @@
+D:\Learning\IE\services\Products\IE.Products.Domain\bin\Debug\net8.0\IE.Products.Domain.deps.json
+D:\Learning\IE\services\Products\IE.Products.Domain\bin\Debug\net8.0\IE.Products.Domain.dll
+D:\Learning\IE\services\Products\IE.Products.Domain\bin\Debug\net8.0\IE.Products.Domain.pdb
+D:\Learning\IE\services\Products\IE.Products.Domain\bin\Debug\net8.0\IE.Shared.dll
+D:\Learning\IE\services\Products\IE.Products.Domain\bin\Debug\net8.0\IE.Shared.pdb
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.csproj.AssemblyReference.cache
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.AssemblyInfoInputs.cache
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.AssemblyInfo.cs
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.csproj.CoreCompileInputs.cache
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.sourcelink.json
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Produ.EDF86FF6.Up2Date
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.dll
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\refint\IE.Products.Domain.dll
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\IE.Products.Domain.pdb
+D:\Learning\IE\services\Products\IE.Products.Domain\obj\Debug\net8.0\ref\IE.Products.Domain.dll

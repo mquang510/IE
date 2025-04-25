@@ -1,0 +1,13 @@
+D:\Learning\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.deps.json
+D:\Learning\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.dll
+D:\Learning\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.pdb
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.AssemblyInfoInputs.cache
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.AssemblyInfo.cs
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.csproj.CoreCompileInputs.cache
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.sourcelink.json
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.dll
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\refint\IE.Shared.dll
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.pdb
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\ref\IE.Shared.dll
+D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.csproj.AssemblyReference.cache

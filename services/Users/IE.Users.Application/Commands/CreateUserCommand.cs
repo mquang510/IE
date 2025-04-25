@@ -3,12 +3,8 @@ using MediatR;
 
 namespace IE.Users.Application.Commands
 {
-    public class CreateUserCommand : IRequest<UserDto>
+    public class CreateUserCommand(UserDto user) : IRequest<UserDto>
     {
-        public UserDto User { get; }
-        public CreateUserCommand(UserDto user)
-        {
-            User = user;
-        }
+        public UserDto User = user;
     }
 }

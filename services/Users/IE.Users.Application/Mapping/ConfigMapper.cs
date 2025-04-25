@@ -1,4 +1,4 @@
-﻿using IE.Users.Domain.Entities;
+﻿using IE.Shared.Entities;
 using AutoMapper;
 using IE.Users.Application.DTOs;
 

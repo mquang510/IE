@@ -1,10 +1,6 @@
-﻿using IE.Users.Domain.Entities;
+﻿using IE.Shared.Entities;
+using IE.Shared.Persistence;
 using IE.Users.Domain.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IE.Users.Infrastructure.Data
 {

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IE.Users.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb993cedfdc8bf79b394031b0e430e6492456eed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+412e0df9de791e64ad464a83fb063a9f73cdeca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("IE.Users.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IE.Users.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

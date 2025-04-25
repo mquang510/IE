@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "HkX0QKR3JvsZrYB4u2sR8vxiQvq4YG7o9iKHsoIQ8T4=",
+  "Source": "IE.Users.API",
+  "BasePath": "_content/IE.Users.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

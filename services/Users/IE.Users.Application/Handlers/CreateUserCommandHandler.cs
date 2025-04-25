@@ -1,14 +1,9 @@
 ﻿using AutoMapper;
+using IE.Shared.Entities;
 using IE.Users.Application.Commands;
 using IE.Users.Application.DTOs;
-using IE.Users.Domain.Entities;
 using IE.Users.Domain.Interfaces;
 using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace IE.Users.Application.Handlers
 {

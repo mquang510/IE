@@ -1,10 +1,10 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using IE.Shared.Persistence;
 using IE.Users.Application.Data;
 using IE.Users.Application.Interfaces;
 using IE.Users.Application.Mapping;
 using IE.Users.Application.Validators;
-using IE.Users.Domain.Interfaces;
 using IE.Users.Infrastructure.Data;
 
 var builder = WebApplication.CreateBuilder(args);

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sWVJ8jLVWjIrqWoS13kpWBhOwpIQZAKvRli5zuiB3/k=",
+  "Source": "IE.Server",
+  "BasePath": "_content/IE.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

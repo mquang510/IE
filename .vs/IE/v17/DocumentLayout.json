@@ -3,64 +3,136 @@
   "WorkspaceRootPath": "D:\\Learning\\IE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\validators\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\validators\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|d:\\learning\\ie\\services\\users\\ie.users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|solutionrelative:services\\users\\ie.users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\handlers\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\handlers\\getalluserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\queries\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\queries\\getalluserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\handlers\\createusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|d:\\learning\\ie\\services\\users\\ie.users.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|solutionrelative:services\\users\\ie.users.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|d:\\learning\\ie\\shared\\ie.shared\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|solutionrelative:shared\\ie.shared\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\commands\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\queries\\getallproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\handlers\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\handlers\\getallproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\handlers\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|d:\\learning\\ie\\services\\products\\ie.products.application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0187A948-A337-4272-A0BF-F35BE3CDE854}|services\\Products\\IE.Products.Application\\IE.Products.Application.csproj|solutionrelative:services\\products\\ie.products.application\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|d:\\learning\\ie\\shared\\ie.shared\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|solutionrelative:shared\\ie.shared\\persistence\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|d:\\learning\\ie\\shared\\ie.shared\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|solutionrelative:shared\\ie.shared\\persistence\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B9005-7513-4651-A69D-48E59EC8E6CA}|services\\Products\\IE.Products.Infrastructure\\IE.Products.Infrastructure.csproj|d:\\learning\\ie\\services\\products\\ie.products.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B9005-7513-4651-A69D-48E59EC8E6CA}|services\\Products\\IE.Products.Infrastructure\\IE.Products.Infrastructure.csproj|solutionrelative:services\\products\\ie.products.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417B9005-7513-4651-A69D-48E59EC8E6CA}|services\\Products\\IE.Products.Infrastructure\\IE.Products.Infrastructure.csproj|d:\\learning\\ie\\services\\products\\ie.products.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417B9005-7513-4651-A69D-48E59EC8E6CA}|services\\Products\\IE.Products.Infrastructure\\IE.Products.Infrastructure.csproj|solutionrelative:services\\products\\ie.products.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A37BCB-DDBD-4913-9C87-22EBB8E45F42}|services\\Products\\IE.Products.Domain\\IE.Products.Domain.csproj|d:\\learning\\ie\\services\\products\\ie.products.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A37BCB-DDBD-4913-9C87-22EBB8E45F42}|services\\Products\\IE.Products.Domain\\IE.Products.Domain.csproj|solutionrelative:services\\products\\ie.products.domain\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26491AAD-45A7-4DE6-8672-FC29BF52A88A}|services\\Products\\IE.Products.API\\IE.Products.API.csproj|d:\\learning\\ie\\services\\products\\ie.products.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26491AAD-45A7-4DE6-8672-FC29BF52A88A}|services\\Products\\IE.Products.API\\IE.Products.API.csproj|solutionrelative:services\\products\\ie.products.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26491AAD-45A7-4DE6-8672-FC29BF52A88A}|services\\Products\\IE.Products.API\\IE.Products.API.csproj|d:\\learning\\ie\\services\\products\\ie.products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26491AAD-45A7-4DE6-8672-FC29BF52A88A}|services\\Products\\IE.Products.API\\IE.Products.API.csproj|solutionrelative:services\\products\\ie.products.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|d:\\learning\\ie\\services\\users\\ie.users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|solutionrelative:services\\users\\ie.users.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|d:\\learning\\ie\\services\\users\\ie.users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|solutionrelative:services\\users\\ie.users.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\mapping\\configmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|d:\\learning\\ie\\services\\users\\ie.users.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|solutionrelative:services\\users\\ie.users.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|d:\\learning\\ie\\services\\users\\ie.users.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18327FC9-23A1-4D6A-8369-510EF5CA0CC1}|services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj|solutionrelative:services\\users\\ie.users.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A37BCB-DDBD-4913-9C87-22EBB8E45F42}|services\\Products\\IE.Products.Domain\\IE.Products.Domain.csproj|d:\\learning\\ie\\services\\products\\ie.products.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A37BCB-DDBD-4913-9C87-22EBB8E45F42}|services\\Products\\IE.Products.Domain\\IE.Products.Domain.csproj|solutionrelative:services\\products\\ie.products.domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|d:\\learning\\ie\\services\\users\\ie.users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563455DF-77B6-4E02-B905-74562A7E68E0}|services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj|solutionrelative:services\\users\\ie.users.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|d:\\learning\\ie\\services\\users\\ie.users.api\\ie.users.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4763FB02-8419-4BF7-913C-750AD48EABFA}|services\\Users\\IE.Users.API\\IE.Users.API.csproj|solutionrelative:services\\users\\ie.users.api\\ie.users.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|d:\\learning\\ie\\shared\\ie.shared\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|solutionrelative:shared\\ie.shared\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\validators\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\validators\\createusercommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|d:\\learning\\ie\\shared\\ie.shared\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1831D71F-64F5-4990-9462-61C9BC46E242}|shared\\IE.Shared\\IE.Shared.csproj|solutionrelative:shared\\ie.shared\\entity\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|d:\\learning\\ie\\services\\users\\ie.users.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F6FD8D1-829F-4B93-BF4E-82CDEE26164E}|services\\Users\\IE.Users.Application\\IE.Users.Application.csproj|solutionrelative:services\\users\\ie.users.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{43869BEC-9916-4D94-9561-5389FE96D069}|gateway\\IE.Gateway\\IE.Gateway.csproj|d:\\learning\\ie\\gateway\\ie.gateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -94,58 +166,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Program.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.API\\Program.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Program.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.API\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Title": "GetAllUserQuery.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Queries\\GetAllUserQuery.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Queries\\GetAllUserQuery.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Queries\\GetAllUserQuery.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Queries\\GetAllUserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T07:02:57.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CreateUserCommandValidator.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T07:01:16.421Z",
+              "WhenOpened": "2025-04-25T07:37:43.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "shared\\IE.Shared\\Entity\\BaseEntity.cs",
-              "ToolTip": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\BaseEntity.cs",
-              "RelativeToolTip": "shared\\IE.Shared\\Entity\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:55:51.089Z",
+              "WhenOpened": "2025-04-25T08:07:02.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "ConfigMapper.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Mapping\\ConfigMapper.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Mapping\\ConfigMapper.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Mapping\\ConfigMapper.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Mapping\\ConfigMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:47:58.105Z",
+              "WhenOpened": "2025-04-25T07:32:56.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllProductQuery.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Queries\\GetAllProductQuery.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Queries\\GetAllProductQuery.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Queries\\GetAllProductQuery.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Queries\\GetAllProductQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:34:19.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:07:21.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:10:39.424Z",
               "EditorCaption": ""
             },
             {
@@ -156,14 +254,313 @@
               "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Handlers\\CreateUserCommandHandler.cs",
               "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Handlers\\CreateUserCommandHandler.cs",
               "RelativeToolTip": "services\\Users\\IE.Users.Application\\Handlers\\CreateUserCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T06:41:48.563Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetAllUserHandler.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Handlers\\GetAllUserHandler.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Handlers\\GetAllUserHandler.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Handlers\\GetAllUserHandler.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Handlers\\GetAllUserHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwA8AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:03:10.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Services\\UserService.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:19:00.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllProductHandler.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Handlers\\GetAllProductHandler.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Handlers\\GetAllProductHandler.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Handlers\\GetAllProductHandler.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Handlers\\GetAllProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:35:05.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Handlers\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Handlers\\CreateProductHandler.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Handlers\\CreateProductHandler.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Handlers\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAvwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:25:49.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:22:46.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Application\\Commands\\CreateProductCommand.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Application\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Application\\Commands\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:22:15.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\shared\\IE.Shared\\Persistence\\Repository.cs",
+              "RelativeDocumentMoniker": "shared\\IE.Shared\\Persistence\\Repository.cs",
+              "ToolTip": "D:\\Learning\\IE\\shared\\IE.Shared\\Persistence\\Repository.cs",
+              "RelativeToolTip": "shared\\IE.Shared\\Persistence\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:25.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\shared\\IE.Shared\\Persistence\\IRepository.cs",
+              "RelativeDocumentMoniker": "shared\\IE.Shared\\Persistence\\IRepository.cs",
+              "ToolTip": "D:\\Learning\\IE\\shared\\IE.Shared\\Persistence\\IRepository.cs",
+              "RelativeToolTip": "shared\\IE.Shared\\Persistence\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:19.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:35:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:35:13.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Domain\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Domain\\Entity\\Product.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Domain\\Entity\\Product.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Domain\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:24:00.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:16:57.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.API\\Program.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.API\\Program.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T08:13:43.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.API\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:51:40.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Program.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.API\\Program.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\Program.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T07:02:57.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:02:47.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:18:48.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Products\\IE.Products.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "services\\Products\\IE.Products.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Products\\IE.Products.Domain\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "services\\Products\\IE.Products.Domain\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:25:54.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConfigMapper.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Mapping\\ConfigMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T06:47:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IE.Users.API.csproj",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\IE.Users.API.csproj",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.API\\IE.Users.API.csproj",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.API\\IE.Users.API.csproj",
+              "RelativeToolTip": "services\\Users\\IE.Users.API\\IE.Users.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-25T06:31:24.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "shared\\IE.Shared\\Entity\\User.cs",
+              "ToolTip": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\User.cs",
+              "RelativeToolTip": "shared\\IE.Shared\\Entity\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:26:57.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:56:30.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:04:05.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\DTOs\\UserDto.cs",
@@ -176,137 +573,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Services\\UserService.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Services\\UserService.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Services\\UserService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBQAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "shared\\IE.Shared\\Entity\\BaseEntity.cs",
+              "ToolTip": "D:\\Learning\\IE\\shared\\IE.Shared\\Entity\\BaseEntity.cs",
+              "RelativeToolTip": "shared\\IE.Shared\\Entity\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:19:00.256Z",
+              "WhenOpened": "2025-04-24T06:55:51.089Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "CreateUserCommandValidator.cs",
+              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
+              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
+              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
+              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Validators\\CreateUserCommandValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T06:18:48.442Z",
+              "WhenOpened": "2025-04-24T07:01:16.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\Repository.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\Data\\Repository.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\Repository.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\Data\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:16:54.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Domain\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:02:47.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\Data\\UnitOfWork.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T03:56:30.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Domain\\Entities\\User.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Entities\\User.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T03:50:21.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:04:05.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Domain\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Domain\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T04:16:31.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateUserCommand.cs",
-              "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
-              "RelativeDocumentMoniker": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
-              "ToolTip": "D:\\Learning\\IE\\services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
-              "RelativeToolTip": "services\\Users\\IE.Users.Application\\Commands\\CreateUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T07:10:39.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 36,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "ToolTip": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Properties\\launchSettings.json",
               "RelativeToolTip": "gateway\\IE.Gateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAgAAAAAAAAAAABTwCMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBswCMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-04-22T07:38:40.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Controllers\\WeatherForecastController.cs",
@@ -319,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 35,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\WeatherForecast.cs",
@@ -332,7 +638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 34,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\Program.cs",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\Program.cs",
@@ -345,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 33,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\Learning\\IE\\gateway\\IE.Gateway\\ocelot.json",
               "RelativeDocumentMoniker": "gateway\\IE.Gateway\\ocelot.json",
@@ -358,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 38,
               "Title": "IE.Users.Infrastructure.csproj",
               "DocumentMoniker": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
               "RelativeDocumentMoniker": "services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
