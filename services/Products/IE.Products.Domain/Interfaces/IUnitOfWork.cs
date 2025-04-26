@@ -1,5 +1,5 @@
 ﻿using IE.Products.Domain.Entity;
-using IE.Shared.Persistence;
+using IE.Shared.Interfaces;
 
 namespace IE.Products.Interfaces
 {

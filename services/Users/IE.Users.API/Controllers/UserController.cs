@@ -6,7 +6,7 @@ namespace IE.Users.API.Controllers
 {
 
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/user")]
     public class UserController(IUserService userService) : ControllerBase
     {
         private readonly IUserService _userService = userService;
@@ -19,12 +19,12 @@ namespace IE.Users.API.Controllers
             return null;
         }
 
-        [HttpPost(Name = "GetAll")]
-        [Route("user/getall")]
+        [HttpGet(Name = "GetAll")]
+        [Route("getall")]
         public async Task<ActionResult> GetAll()
         {
             var users = await _userService.GetAllUserAsync();
-            return null;
+            return Ok(users);
         }
     }
 }

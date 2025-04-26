@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "HkX0QKR3JvsZrYB4u2sR8vxiQvq4YG7o9iKHsoIQ8T4=",
+  "Hash": "+UmEgQLVy2eME/0omW717LWifLD38/8veC6sy7q5xlE=",
   "Source": "IE.Users.API",
   "BasePath": "_content/IE.Users.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

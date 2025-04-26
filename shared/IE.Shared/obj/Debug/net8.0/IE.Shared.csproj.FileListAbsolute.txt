@@ -11,3 +11,16 @@ D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\refint\IE.Shared.dll
 D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.pdb
 D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\ref\IE.Shared.dll
 D:\Learning\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.csproj.AssemblyReference.cache
+D:\working\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.deps.json
+D:\working\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.dll
+D:\working\IE\shared\IE.Shared\bin\Debug\net8.0\IE.Shared.pdb
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.csproj.AssemblyReference.cache
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.AssemblyInfoInputs.cache
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.AssemblyInfo.cs
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.csproj.CoreCompileInputs.cache
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.sourcelink.json
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.dll
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\refint\IE.Shared.dll
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\IE.Shared.pdb
+D:\working\IE\shared\IE.Shared\obj\Debug\net8.0\ref\IE.Shared.dll

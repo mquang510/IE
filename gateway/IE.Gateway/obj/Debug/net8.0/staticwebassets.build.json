@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "Y38RHeOux+Tsc4g1Cx/uCH1foePiwhCj9CqnDbMMtac=",
+  "Hash": "sIWcp2FqNWKcG2+hz1sj96fYrFDhDN7k9T/kdpzyOi0=",
   "Source": "IE.Gateway",
   "BasePath": "_content/IE.Gateway",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

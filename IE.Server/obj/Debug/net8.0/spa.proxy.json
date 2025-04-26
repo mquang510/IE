@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "D:\\Learning\\IE\\IE.Server\\..\\introduceeverything.client",
+"WorkingDirectory": "D:\\working\\IE\\IE.Server\\..\\introduceeverything.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

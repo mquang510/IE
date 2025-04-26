@@ -1,6 +1,6 @@
 ﻿using IE.Products.Domain.Entity;
 using IE.Products.Interfaces;
-using IE.Shared.Persistence;
+using IE.Shared.Interfaces;
 
 namespace IE.Products.Infrastructure.Data
 {

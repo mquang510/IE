@@ -22,6 +22,10 @@ const AppHeader = () => {
                         <span>About</span>
                         <Link to="/about"/>
                     </Menu.Item>
+                    <Menu.Item key="3">
+                        <span>Page</span>
+                        <Link to="/page"/>
+                    </Menu.Item>
                 </Menu>
             </div>
             <div className={styles.right}>

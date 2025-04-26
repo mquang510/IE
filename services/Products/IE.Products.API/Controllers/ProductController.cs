@@ -5,13 +5,13 @@ using Microsoft.AspNetCore.Mvc;
 namespace IE.Products.API.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("api/product")]
     public class ProductController(IProductService productService) : ControllerBase
     {
         private readonly IProductService _productService = productService;
 
         [HttpPost(Name = "Create")]
-        [Route("product/create")]
+        [Route("create")]
         public async Task<ActionResult> Create()
         {
             await _productService.CreateProductAsync(new ProductDto());
@@ -19,11 +19,11 @@ namespace IE.Products.API.Controllers
         }
 
         [HttpPost(Name = "GetAll")]
-        [Route("product/getall")]
+        [Route("getall")]
         public async Task<ActionResult> GetAll()
         {
-            var users = await _productService.GetProductsAsync();
-            return null;
+            // var users = await _productService.GetProductsAsync();
+            return Ok(new List<ProductDto>());
         }
     }
 }

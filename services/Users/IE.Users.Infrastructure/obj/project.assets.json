@@ -4727,23 +4727,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\My HP\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+      "projectUniqueName": "D:\\working\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
       "projectName": "IE.Users.Infrastructure",
-      "projectPath": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\IE\\services\\Users\\IE.Users.Infrastructure\\obj\\",
+      "projectPath": "D:\\working\\IE\\services\\Users\\IE.Users.Infrastructure\\IE.Users.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\My HP\\.nuget\\packages\\",
+      "outputPath": "D:\\working\\IE\\services\\Users\\IE.Users.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\My HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4759,8 +4759,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj": {
-              "projectPath": "D:\\Learning\\IE\\services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj"
+            "D:\\working\\IE\\services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj": {
+              "projectPath": "D:\\working\\IE\\services\\Users\\IE.Users.Domain\\IE.Users.Domain.csproj"
             }
           }
         }
@@ -4769,13 +4769,7 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -4808,7 +4802,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

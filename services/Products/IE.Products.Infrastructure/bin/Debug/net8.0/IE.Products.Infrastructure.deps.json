@@ -1039,10 +1039,7 @@
           "IE.Shared": "1.0.0"
         },
         "runtime": {
-          "IE.Products.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "IE.Products.Domain.dll": {}
         }
       },
       "IE.Shared/1.0.0": {
@@ -1050,10 +1047,7 @@
           "Microsoft.EntityFrameworkCore": "9.0.4"
         },
         "runtime": {
-          "IE.Shared.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "IE.Shared.dll": {}
         }
       }
     }

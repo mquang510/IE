@@ -1,5 +1,5 @@
 ﻿using IE.Shared.Entities;
-using IE.Shared.Persistence;
+using IE.Shared.Interfaces;
 using IE.Users.Domain.Interfaces;
 
 namespace IE.Users.Infrastructure.Data

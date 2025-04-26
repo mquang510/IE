@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IE.Products.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+412e0df9de791e64ad464a83fb063a9f73cdeca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+208b01a8dfd5cd042af323c38a0920448a5867b3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IE.Products.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IE.Products.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

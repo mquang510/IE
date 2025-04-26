@@ -1,5 +1,5 @@
 ﻿using IE.Shared.Entities;
-using IE.Shared.Persistence;
+using IE.Shared.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

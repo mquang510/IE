@@ -1,11 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using IE.Shared.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System.Linq.Expressions;
 
-namespace IE.Shared.Persistence
+namespace IE.Users.Infrastructure.Data
 {
-    public class Repository<TEntity>(DbSet<TEntity> dbSet) : IRepository<TEntity> where TEntity : class
+    public class Repository<TEntity>(AppDbContext dbContext) : IRepository<TEntity> where TEntity : class
     {
-        protected readonly DbSet<TEntity> _dbSet = dbSet;
+        protected readonly DbSet<TEntity> _dbSet = dbContext.Set<TEntity>();
 
         /// <summary>
         /// Add
