@@ -10,6 +10,10 @@ using IE.Users.Application.Validators;
 using IE.Users.Domain.Interfaces;
 using IE.Users.Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using IE.Shared.Constants;
 
 namespace IE.Users.API
 {
@@ -30,6 +34,7 @@ namespace IE.Users.API
 
             this.ConfigureCors(services);
             this.ConfigureMediatR(services);
+            this.ConfigureJwt(services);
         }
 
         public void ConfigureCors(IServiceCollection services)
@@ -44,8 +49,37 @@ namespace IE.Users.API
         {
             services.AddValidatorsFromAssemblyContaining<CreateUserCommandValidator>();
             services.AddFluentValidationAutoValidation();
-            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<CreateUserCommand>());
-            services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<GetAllUserQuery>());
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<CreateUserCommand>());
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<GetAllUserQuery>());
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<GetUserLoginQuery>());
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<GetUserByIdQuery>());
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssemblyContaining<GetUserByEmailQuery>());
+
+            services.AddMediatR(cfg =>
+            {
+                cfg.RegisterServicesFromAssembly(typeof(CreateUserCommand).Assembly);
+            });
+        }
+
+        public void ConfigureJwt(IServiceCollection services)
+        {
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+              .AddJwtBearer(options =>
+              {
+                  options.TokenValidationParameters = new TokenValidationParameters
+                  {
+                      ValidateIssuer = true,
+                      ValidateAudience = true,
+                      ValidateLifetime = true,
+                      ValidateIssuerSigningKey = true,
+                      ValidIssuer = JwtAppConstants.Issuer,
+                      ValidAudience = JwtAppConstants.Audience,
+                      IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtAppConstants.PrivateKey))
+                  };
+              })
+              .AddCookie(options => {
+                  options.ExpireTimeSpan = TimeSpan.FromHours(JwtAppConstants.ExpiredHour);
+              });
         }
     }
 }

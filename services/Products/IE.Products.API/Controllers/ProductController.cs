@@ -14,8 +14,8 @@ namespace IE.Products.API.Controllers
         [Route("create")]
         public async Task<ActionResult> Create()
         {
-            await _productService.CreateProductAsync(new ProductDto());
-            return null;
+            var product = await _productService.CreateProductAsync(new ProductDto());
+            return Ok(product);
         }
 
         [HttpPost(Name = "GetAll")]

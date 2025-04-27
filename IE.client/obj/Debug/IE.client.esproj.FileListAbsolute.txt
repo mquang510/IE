@@ -1,1 +1,2 @@
 D:\Learning\IE\IE.client\obj\Debug\IE.client.esproj.CoreCompileInputs.cache
+D:\working\IE\IE.client\obj\Debug\IE.client.esproj.CoreCompileInputs.cache

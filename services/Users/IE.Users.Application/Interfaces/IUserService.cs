@@ -12,5 +12,9 @@ namespace IE.Users.Application.Interfaces
         Task<UserDto> CreateUserAsync(UserDto userDto);
 
         Task<List<UserDto>> GetAllUserAsync();
+
+        Task<UserDto> GetUserLoginAsync(string email, string password);
+
+        Task<UserDto> GetUserByIdAsync(Guid id);
     }
 }

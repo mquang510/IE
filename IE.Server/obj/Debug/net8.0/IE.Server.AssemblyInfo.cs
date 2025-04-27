@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IE.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eecc89f4a87b18d31395142e35a7a6c056a1de59")]
 [assembly: System.Reflection.AssemblyProductAttribute("IE.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IE.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
