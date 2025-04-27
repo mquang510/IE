@@ -1,6 +1,7 @@
 ﻿using Azure;
 using IE.Shared.Constants;
 using IE.Users.API.Helper;
+using IE.Users.API.Model;
 using IE.Users.Application.DTOs;
 using IE.Users.Application.Interfaces;
 using Microsoft.AspNetCore.Mvc;
@@ -35,34 +36,26 @@ namespace IE.Users.API.Controllers
         }
 
 
-        [HttpPost(Name = "Login")]
-        [Route("login")]
-        public async Task<ActionResult> Login([FromBody] UserDto userDto)
+        [HttpPost]
+        [Route("Login")]
+        public async Task<ActionResult> Login([FromBody] UserLoginModel userDto)
         {
             ActionResult response = Unauthorized();
             var user = await _userService.GetUserLoginAsync(userDto.Email, userDto.Password);
             if (user != null)
             {
-                try
-                {
-                    var tokenString = JwtHelper.GenerateJSONWebToken(user);
-                    response = Ok(new { token = tokenString });
-                }
-                catch
-                {
-
-                }
-
+                var tokenString = JwtHelper.GenerateJSONWebToken(user);
+                return Ok(new { token = tokenString });
             }
-            return response;
+            return Ok();
         }
 
-        [HttpPost(Name = "Me")]
+        [HttpGet(Name = "Me")]
         [Route("me")]
-        public async Task<ActionResult> Me([FromBody] UserDto userDto)
+        public async Task<ActionResult> Me()
         {
-            var email = User.Claims.FirstOrDefault(x => x.Type == JwtRegisteredClaimNames.Email);
-            var user = await _userService.GetUserLoginAsync(userDto.Email, userDto.Password);
+            var email = User.Claims.FirstOrDefault(x => x.Type == JwtAppConstants.ClaimEmail);
+            var user = await _userService.GetUserByEmailAsync(email.Value);
             return Ok(user);
         }
     }

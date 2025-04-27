@@ -4,6 +4,7 @@ import MainLayout from "../../layouts/main/layout"
 import styles from './style.module.scss';
 
 export default function ProductPage () {
+   
     return (
         <AppProvider initialState={productInitialState}>
             <MainLayout>

@@ -17,5 +17,8 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 await app.UseOcelot();
-
+app.UseCors(builder => builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader());
 app.Run();

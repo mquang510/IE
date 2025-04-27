@@ -1,8 +1,8 @@
-import React, { useContext } from 'react';
+import { useContext } from 'react';
 import { Layout, Menu, Avatar } from 'antd';
 import { UserOutlined } from '@ant-design/icons';
 import styles from './style.module.scss';
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import { AppContext } from '../../contexts/appContext';
 
 const { Header } = Layout;
@@ -16,7 +16,7 @@ const AppHeader = () => {
                 <Menu theme="dark" mode="horizontal" selectedKeys={[state.menyKey]}> 
                     <Menu.Item key="1">
                         <span>Home</span>
-                        <NavLink to="/"/>
+                        <Link to="/"/>
                     </Menu.Item>
                     <Menu.Item key="2">
                         <span>About</span>
@@ -28,9 +28,10 @@ const AppHeader = () => {
                     </Menu.Item>
                 </Menu>
             </div>
-            <div className={styles.right}>
+            {state.loading && <div className={styles.right}>
                 <Avatar icon={<UserOutlined />} />
-            </div>
+                {state.userInfo?.name}
+            </div>}
         </Header>
     );
 };

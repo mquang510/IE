@@ -52,5 +52,11 @@ namespace IE.Users.Application.Data
             var cmd = new GetUserByIdQuery(id);
             return await _mediator.Send(cmd);
         }
+
+        public async Task<UserDto> GetUserByEmailAsync(string email)
+        {
+            var cmd = new GetUserByEmailQuery(email);
+            return await _mediator.Send(cmd);
+        }
     }
 }
