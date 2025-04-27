@@ -47,7 +47,7 @@ namespace IE.Users.API.Controllers
                 var tokenString = JwtHelper.GenerateJSONWebToken(user);
                 return Ok(new { token = tokenString });
             }
-            return Ok();
+            return Ok(response);
         }
 
         [HttpGet(Name = "Me")]
@@ -55,8 +55,13 @@ namespace IE.Users.API.Controllers
         public async Task<ActionResult> Me()
         {
             var email = User.Claims.FirstOrDefault(x => x.Type == JwtAppConstants.ClaimEmail);
-            var user = await _userService.GetUserByEmailAsync(email.Value);
-            return Ok(user);
+            if (email != null)
+            {
+                var user = await _userService.GetUserByEmailAsync(email.Value);
+                return Ok(user);
+            }
+            ActionResult response = Unauthorized();
+            return Ok(response);
         }
     }
 }
