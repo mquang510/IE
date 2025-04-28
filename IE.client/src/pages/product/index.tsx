@@ -1,3 +1,4 @@
+import SliderImage from "../../components/silderImage";
 import { productInitialState } from "../../constants/productState";
 import AppProvider from "../../contexts/appContext";
 import MainLayout from "../../layouts/main/layout"
@@ -9,7 +10,7 @@ export default function ProductPage () {
         <AppProvider initialState={productInitialState}>
             <MainLayout>
                 <div className={styles.content}>
-                <p>Page content.</p>
+                    <SliderImage/>
                 </div>
             </MainLayout>
         </AppProvider>
