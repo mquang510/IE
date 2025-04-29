@@ -1,1 +1,0 @@
-// src/features/user/types.ts - placeholder content

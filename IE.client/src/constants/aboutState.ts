@@ -1,5 +1,5 @@
-import { AppState } from "../domain/app";
+import { menyKeys } from "../utils/constants";
 
-export const aboutInitialState: AppState = {
-    menyKey: "2"
+export const aboutInitialState = {
+    menyKey: menyKeys.about
 };

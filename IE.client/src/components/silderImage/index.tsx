@@ -1,22 +1,18 @@
-import React from 'react';
 import { Carousel } from 'antd';
-import styles from './style.module.scss';
-
-const SliderImage = () => {
-    return (<Carousel effect="fade" autoplay arrows dots={false}>
-      <div>
-        <h3 className={styles['slider-image-style']}>1</h3>
-      </div>
-      <div>
-        <h3 className={styles['slider-image-style']}>2</h3>
-      </div>
-      <div>
-        <h3 className={styles['slider-image-style']}>3</h3>
-      </div>
-      <div>
-        <h3 className={styles['slider-image-style']}>4</h3>
-      </div>
-    </Carousel>)
+import { Component } from '../../domain/component';
+interface SliderImageProps {
+  component: Component;
+}
+const SliderImage = (props: SliderImageProps) => {
+  return (<Carousel style={props.component.style} effect="fade" autoplay arrows dots={false}>
+    {props.component.data.map((x: any) => {
+      return (
+        <div>
+          <img style={x.style} src={x.src}/>
+        </div>
+      )
+    })}
+  </Carousel>)
 };
 
 export default SliderImage;

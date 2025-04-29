@@ -1,5 +1,5 @@
-import { AppState } from "../domain/app";
+import { menyKeys } from "../utils/constants";
 
-export const productInitialState: AppState = {
-    menyKey: "3"
+export const productInitialState = {
+    menyKey: menyKeys.page
 };
