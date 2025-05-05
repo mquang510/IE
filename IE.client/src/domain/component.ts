@@ -1,13 +1,15 @@
 import { ComponentTypes } from "../utils/enums"
 import { cssStringToObject } from "../utils/functions"
+import { Image } from "./image"
 
 export interface Component {
     id: string,
     name: string,
     type: number,
-    content: string,
+    content?: string,
     style?: React.CSSProperties,
-    data: any
+    data?: Image[],
+    childrens?: Component[] 
 }
 
 export const mockComponents: Component[] = [
@@ -41,34 +43,38 @@ export const mockComponents: Component[] = [
         ]
     },
     {
-        id: '2',
-        name: 'title',
-        type: ComponentTypes.Title,
-        content: 'Làng chài Phước Tỉnh',
-        data: ''
+        id: '10',
+        name: 'titWrapperle',
+        type: ComponentTypes.Wrapper,
+        childrens: [
+            {
+                id: '2',
+                name: 'title',
+                type: ComponentTypes.Title,
+                content: 'Làng chài Phước Tỉnh'
+            },
+            {
+                id: '3',
+                name: 'subTitle',
+                type: ComponentTypes.SubTitle,
+                content: 'Phước Tỉnh là một xã thuộc huyện Long Đất, tỉnh Bà Rịa – Vũng Tàu, Việt Nam.'
+            },
+            {
+                id: '4',
+                name: 'subTitle',
+                type: ComponentTypes.Description,
+                content: `Thuộc huyện Long Điền, Bà Rịa – Vũng Tàu, làng chài Phước Tỉnh vô cùng sầm uất với tuổi đời hơn 300 năm. Đời sống của nhiều người dân làng chài đã trở nên khấm khá. 
+                                        Thu nhập bình quân đầu người ở đây hiện đang ở mức 2.500 USD/năm. 
+                                        Đây là con số cao so với nhiều nơi khác. 
+                                        Được gọi là “làng tỷ phú”, bởi ở làng cá này có rất nhiều ngư dân đang sở hữu
+                                         những cặp tàu có giá trị lên đến hàng chục tỷ đồng.
+                                         Bên cạnh nghề đánh cá, Phước Tỉnh còn làm giàu từ nghề đóng tàu. 
+                                         Làng này có 5 ụ đóng tàu, thu hút hàng trăm thợ lành nghề và rất 
+                                         nhiều lao động địa phương. Hàng năm, làng chài cho hạ thủy hơn 40 
+                                         chiếc tàu đánh bắt xa bờ. Ngoài khả năng đóng mới, Phước Tỉnh cũng 
+                                         là nơi rất có uy tín trong việc sửa chữa tàu biển. 
+                                         Nhiều tàu ở nơi khác cũng thường đến đây để sửa tàu của mình.`
+            }
+        ]
     },
-    {
-        id: '3',
-        name: 'subTitle',
-        type: ComponentTypes.SubTitle,
-        content: 'Phước Tỉnh là một xã thuộc huyện Long Đất, tỉnh Bà Rịa – Vũng Tàu, Việt Nam.',
-        data: ''
-    },
-    {
-        id: '4',
-        name: 'subTitle',
-        type: ComponentTypes.Description,
-        content: `Thuộc huyện Long Điền, Bà Rịa – Vũng Tàu, làng chài Phước Tỉnh vô cùng sầm uất với tuổi đời hơn 300 năm. Đời sống của nhiều người dân làng chài đã trở nên khấm khá. 
-                                Thu nhập bình quân đầu người ở đây hiện đang ở mức 2.500 USD/năm. 
-                                Đây là con số cao so với nhiều nơi khác. 
-                                Được gọi là “làng tỷ phú”, bởi ở làng cá này có rất nhiều ngư dân đang sở hữu
-                                 những cặp tàu có giá trị lên đến hàng chục tỷ đồng.
-                                 Bên cạnh nghề đánh cá, Phước Tỉnh còn làm giàu từ nghề đóng tàu. 
-                                 Làng này có 5 ụ đóng tàu, thu hút hàng trăm thợ lành nghề và rất 
-                                 nhiều lao động địa phương. Hàng năm, làng chài cho hạ thủy hơn 40 
-                                 chiếc tàu đánh bắt xa bờ. Ngoài khả năng đóng mới, Phước Tỉnh cũng 
-                                 là nơi rất có uy tín trong việc sửa chữa tàu biển. 
-                                 Nhiều tàu ở nơi khác cũng thường đến đây để sửa tàu của mình.`,
-        data: ''
-    }
 ]

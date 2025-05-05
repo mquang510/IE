@@ -1,9 +1,10 @@
+import { appActions } from "../utils/enums";
 
 export interface AppState {
     menyKey: string;
 }
 
 export type AppAction = { 
-    type: '',
+    type: appActions,
     payload: AppState 
 };

@@ -29,9 +29,9 @@ const AppHeader = () => {
                     </Menu.Item>
                 </Menu>
             </div>
-            {userState.loading && <div className={styles.right}>
+            {!userState.loading && <div className={styles.right}>
                 <Avatar icon={<UserOutlined />} />
-                {userState?.user.name}
+                {userState.user?.name}
             </div>}
         </Header>
     );

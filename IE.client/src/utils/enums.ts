@@ -4,9 +4,10 @@ export enum appActions {
 }
 
 export enum ComponentTypes {
-    Title = 0,
-    SubTitle = 1,
-    Description = 2,
-    SliderImage = 3,
-    Map = 4
+    Wrapper = 0,
+    Title = 1,
+    SubTitle = 2,
+    Description = 3,
+    SliderImage = 4,
+    Map = 5,
 }

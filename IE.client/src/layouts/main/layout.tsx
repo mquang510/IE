@@ -1,26 +1,14 @@
-import React, { useEffect } from 'react';
+import React from 'react';
 import Header from '../../components/header';
 import Footer from '../../components/footer';
 import styles from './style.module.scss';
-import { useAuth } from '../../hooks/useAuth';
-import { AppDispatch } from '../../store';
-import { useDispatch } from 'react-redux';
-import { setUserState } from '../../slices/userSlice';
 import { Content } from 'antd/es/layout/layout';
 
 interface Props {
     children: React.ReactNode;
 }
 
-export default function Layout ({ children }: Props) {
-    const { user } = useAuth();
-    const dispatch = useDispatch<AppDispatch>();
-    useEffect(() => {
-        dispatch(setUserState({
-            userInfo: user,
-            loading: !!user
-        }))
-    }, [user])
+const Layout = ({ children }: Props) => {
     return (
         <div className={styles.layout}>
           <Header />
@@ -29,3 +17,5 @@ export default function Layout ({ children }: Props) {
         </div>
     );
 }
+
+export default Layout;

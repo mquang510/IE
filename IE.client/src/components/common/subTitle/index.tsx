@@ -1,5 +1,6 @@
-import { Component } from "../../domain/component";
+import { Component } from "../../../domain/component";
 import { Typography } from 'antd';
+import Children from "../children";
 
 const { Text } = Typography;
 interface SubTitleProps {
@@ -11,6 +12,7 @@ const SubTitle = (props: SubTitleProps) => {
             <Text italic style={props.component.style}>
                 {props.component.content}
             </Text>
+            {props.component.childrens && <Children components={props.component.childrens} />}
         </div>
     )
 }

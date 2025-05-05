@@ -3,15 +3,18 @@ import AppRoutes from './router/index';
 import './styles/global.scss';
 import { Provider } from 'react-redux';
 import store from './store';
+import AutuProvider from './layouts/authProvider';
 
 export default function App() {
-    return (
-    <div className="App introduce-everything">
-      <BrowserRouter>
-        <Provider store={store}>
+  return (
+  <div className="App introduce-everything">
+    <BrowserRouter>
+      <Provider store={store}>
+        <AutuProvider>
           <AppRoutes />
-        </Provider>
-      </BrowserRouter>
-    </div>)
+        </AutuProvider>
+      </Provider>
+    </BrowserRouter>
+  </div>)
 }
   
